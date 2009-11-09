@@ -1,0 +1,331 @@
+Buenos Aires,Distrito Federal,DF
+La Plata,Buenos Aires,BA
+Alejandro Korn,Buenos Aires,BA
+América,Buenos Aires,BA
+Arrecifes,Buenos Aires,BA
+Avellaneda,Buenos Aires,BA
+Azul,Buenos Aires,BA
+Bahía Blanca,Buenos Aires,BA
+Balcarce,Buenos Aires,BA
+Banfield,Buenos Aires,BA
+Béccar,Buenos Aires,BA
+Bragado,Buenos Aires,BA
+Burzaco,Buenos Aires,BA
+Campana,Buenos Aires,BA
+Cariló,Buenos Aires,BA
+Carmen de Areco,Buenos Aires,BA
+Carmen de Patagones,Buenos Aires,BA
+Chacabuco,Buenos Aires,BA
+Chivilcoy,Buenos Aires,BA
+City Bell,Buenos Aires,BA
+Ciudadela,Buenos Aires,BA
+Ciudad Jardín Lomas del Palomar,Buenos Aires,BA
+Colonia Lapin,Buenos Aires,BA
+Coronel Martínez de Hoz,Buenos Aires,BA
+Coronel Pringles,Buenos Aires,BA
+El Palomar,Buenos Aires,BA
+Ensenada,Buenos Aires,BA
+Ezeiza,Buenos Aires,BA
+Florida,Buenos Aires,BA
+General Alvear,Buenos Aires,BA
+General Las Heras,Buenos Aires,BA
+General Lavalle,Buenos Aires,BA
+General Villegas,Buenos Aires,BA
+Guaminí,Buenos Aires,BA
+Hurlingham,Buenos Aires,BA
+Ingeniero Maschwitz,Buenos Aires,BA
+Ituzaingó,Buenos Aires,BA
+José C. Paz,Buenos Aires,BA
+Junín,Buenos Aires,BA
+La Lucila,Buenos Aires,BA
+Lanús,Buenos Aires,BA
+Las Flores,Buenos Aires,BA
+Leandro N. Alem,Buenos Aires,BA
+Lobos,Buenos Aires,BA
+Lomas de Zamora,Buenos Aires,BA
+Los Hornos,Buenos Aires,BA
+Luján,Buenos Aires,BA
+Mar del Plata,Buenos Aires,BA
+Martínez,Buenos Aires,BA
+Merlo,Buenos Aires,BA
+Miramar,Buenos Aires,BA
+Monte Grande,Buenos Aires,BA
+Morón,Buenos Aires,BA
+Munro,Buenos Aires,BA
+Necochea,Buenos Aires,BA
+Nueve de Julio,Buenos Aires,BA
+Olavarría,Buenos Aires,BA
+Olivos,Buenos Aires,BA
+Parque San Martín,Buenos Aires,BA
+Pehuajó,Buenos Aires,BA
+Pergamino,Buenos Aires,BA
+Pigüé,Buenos Aires,BA
+Pilar,Buenos Aires,BA
+Pinamar,Buenos Aires,BA
+Rafael Calzada,Buenos Aires,BA
+Quilmes,Buenos Aires,BA
+San Antonio de Padua,Buenos Aires,BA
+San Nicolás,Buenos Aires,BA
+San Fernando,Buenos Aires,BA
+San Isidro,Buenos Aires,BA
+San Justo,Buenos Aires,BA
+San Nicolás de los Arroyos,Buenos Aires,BA
+Santos Lugares,Buenos Aires,BA
+Tandil,Buenos Aires,BA
+Tigre,Buenos Aires,BA
+Trenque Lauquen,Buenos Aires,BA
+Valentín Alsina,Buenos Aires,BA
+Villa Gesell,Buenos Aires,BA
+Villa Fiorito,Buenos Aires,BA
+Villa Martelli,Buenos Aires,BA
+Zárate,Buenos Aires,BA
+San Fernando del Valle de Catamarca,Catamarca,CAT
+Andalgalá,Catamarca,CAT
+Belén,Catamarca,CAT
+San Isidro,Catamarca,CAT
+Santa María,Catamarca,CAT
+Saujil,Catamarca,CAT
+Tinogasta,Catamarca,CAT
+Resistencia,Chaco,CHA
+Barranqueras,Chaco,CHA
+Castelli,Chaco,CHA
+Charata,Chaco,CHA
+General José de San Martín,Chaco,CHA
+General Pinedo,Chaco,CHA
+Presidencia Roque Sáenz Peña,Chaco,CHA
+Villa Ángela,Chaco,CHA
+Rawson,Chubut,CHU
+Comodoro Rivadavia,Chubut,CHU
+Dolavon,Chubut,CHU
+Esquel,Chubut,CHU
+Gaiman,Chubut,CHU
+Puerto Madryn,Chubut,CHU
+Puerto Pirámides,Chubut,CHU
+Rada Tilly,Chubut,CHU
+Sarmiento,Chubut,CHU
+Trelew,Chubut,CHU
+Trevelin,Chubut,CHU
+Córdoba,Córdoba,CDB
+Alta Gracia,Córdoba,CDB
+Arias,Córdoba,CDB
+Arroyito,Córdoba,CDB
+Bell Ville,Córdoba,CDB
+Canals,Córdoba,CDB
+Capilla del Monte,Córdoba,CDB
+Colonia Caroya,Córdoba,CDB
+Cosquín,Córdoba,CDB
+Cruz del Eje,Córdoba,CDB
+Ischilín,Córdoba,CDB
+James Craik,Córdoba,CDB
+Jesús María,Córdoba,CDB
+La Carlota,Córdoba,CDB
+La Cumbre,Córdoba,CDB
+La Cumbrecita,Córdoba,CDB
+La Falda,Córdoba,CDB
+Laboulaye,Córdoba,CDB
+Laguna Larga,Córdoba,CDB
+Las Varillas,Córdoba,CDB
+Leones,Córdoba,CDB
+Levalle,Córdoba,CDB
+Mina Clavero,Córdoba,CDB
+Miramar,Córdoba,CDB
+Morteros,Córdoba,CDB
+Oncativo,Córdoba,CDB
+Quilino,Córdoba,CDB
+Río Cuarto,Córdoba,CDB
+Río Segundo,Córdoba,CDB
+Río Tercero,Córdoba,CDB
+San Francisco del Chañar,Córdoba,CDB
+San Francisco,Córdoba,CDB
+Santa Rosa de Calamuchita,Córdoba,CDB
+Tanti,Córdoba,CDB
+Unquillo,Córdoba,CDB
+Valle Hermoso,Córdoba,CDB
+Vicuña Mackenna,Córdoba,CDB
+Villa Carlos Paz or Carlos Paz,Córdoba,CDB
+Villa Cura Brochero,Córdoba,CDB
+Villa del Totoral,Córdoba,CDB
+Villa General Belgrano,Córdoba,CDB
+Villa María,Córdoba,CDB
+Corrientes,Corrientes,COR
+Alvear,Corrientes,COR
+Bella Vista,Corrientes,COR
+Curuzú Cuatiá,Corrientes,COR
+Empedrado,Corrientes,COR
+Esquina,Corrientes,COR
+Gobernador Virasoro,Corrientes,COR
+Goya,Corrientes,COR
+Itatí,Corrientes,COR
+Ituzaingó,Corrientes,COR
+Paso de los Libres,Corrientes,COR
+Santo Tomé,Corrientes,COR
+Saladas,Corrientes,COR
+Santa Lucía,Corrientes,COR
+Paraná,Entre Ríos,ERI
+Basavilbaso,Entre Ríos,ERI
+Chajarí,Entre Ríos,ERI
+Colón,Entre Ríos,ERI
+Concepción del Uruguay,Entre Ríos,ERI
+Concordia,Entre Ríos,ERI
+Crespo,Entre Ríos,ERI
+Diamante,Entre Ríos,ERI
+Federación,Entre Ríos,ERI
+Gualeguay,Entre Ríos,ERI
+Gualeguaychú,Entre Ríos,ERI
+La Paz,Entre Ríos,ERI
+Libertador San Martín,Entre Ríos,ERI
+Puiggari,Entre Ríos,ERI
+Urdinarrain,Entre Ríos,ERI
+Victoria,Entre Ríos,ERI
+Villa Elisa,Entre Ríos,ERI
+Villa Paranacito,Entre Ríos,ERI
+Villaguay,Entre Ríos,ERI
+Formosa,Formosa,FOR
+Clorinda,Formosa,FOR
+Ibarreta,Formosa,FOR
+Las Lomitas,Formosa,FOR
+Puerto Pilcomayo,Formosa,FOR
+San Salvador de Jujuy,Jujuy,JUJ
+General San Martín,Jujuy,JUJ
+Humahuaca,Jujuy,JUJ
+La Quiaca,Jujuy,JUJ
+San Pedro,Jujuy,JUJ
+Tilcara,Jujuy,JUJ
+Santa Rosa,La Pampa,LPA
+Eduardo Castex,La Pampa,LPA
+General Pico,La Pampa,LPA
+Guatraché,La Pampa,LPA
+Macachín,La Pampa,LPA
+Realicó,La Pampa,LPA
+Santa Isabel,La Pampa,LPA
+La Rioja,La Rioja,LRI
+Aimogasta,La Rioja,LRI
+Anillaco,La Rioja,LRI
+Chepes,La Rioja,LRI
+Chilecito,La Rioja,LRI
+El Chamical,La Rioja,LRI
+Famatina,La Rioja,LRI
+Patquía,La Rioja,LRI
+Villa Unión,La Rioja,LRI
+Mendoza,Mendoza,MEN
+General Alvear,Mendoza,MEN
+Godoy Cruz,Mendoza,MEN
+La Paz,Mendoza,MEN
+Luján de Cuyo,Mendoza,MEN
+Malargüe,Mendoza,MEN
+Palmira,Mendoza,MEN
+Puente del Inca,Mendoza,MEN
+Punta de Vacas,Mendoza,MEN
+Rivadavia,Mendoza,MEN
+San Martín,Mendoza,MEN
+San Rafael,Mendoza,MEN
+Tunuyán,Mendoza,MEN
+Tupungato,Mendoza,MEN
+Uspallata,Mendoza,MEN
+Posadas,Misiones,MIS
+Andresito,Misiones,MIS
+Apóstoles,Misiones,MIS
+Bernardo de Irigoyen,Misiones,MIS
+Candelaria,Misiones,MIS
+Eldorado,Misiones,MIS
+Montecarlo,Misiones,MIS
+Oberá,Misiones,MIS
+Puerto Iguazú,Misiones,MIS
+Neuquén,Neuquén,NEU
+Aluminé,Neuquén,NEU
+Centenario,Neuquén,NEU
+Chos Malal,Neuquén,NEU
+Cutral Có,Neuquén,NEU
+Junín de los Andes,Neuquén,NEU
+Loncopué,Neuquén,NEU
+Piedra del Águila,Neuquén,NEU
+Plottier,Neuquén,NEU
+San Martín de los Andes,Neuquén,NEU
+Villa La Angostura,Neuquén,NEU
+Zapala,Neuquén,NEU
+Viedma,Río Negro,RNE
+Choele Choel,Río Negro,RNE
+Cipolletti,Río Negro,RNE
+El Bolsón,Río Negro,RNE
+General Roca,Río Negro,RNE
+Ingeniero Jacobacci,Río Negro,RNE
+San Antonio Oeste,Río Negro,RNE
+San Carlos de Bariloche,Río Negro,RNE
+Sierra Grande,Río Negro,RNE
+Villa Regina,Río Negro,RNE
+Salta,Salta,SAL
+Cachi,Salta,SAL
+Cafayate,Salta,SAL
+General Güemes,Salta,SAL
+Salvador Mazza,Salta,SAL
+San Antonio de los Cobres,Salta,SAL
+San Ramón de la Nueva Orán,Salta,SAL
+Tartagal,Salta,SAL
+Orán,Salta,Salta,SAL
+San Juan,San Juan,SJU
+Calingasta,San Juan,SJU
+Caucete,San Juan,SJU
+San José de Jáchal,San Juan,SJU
+Villa Media Agua,San Juan,SJU
+Zonda,San Juan,SJU
+Albardón,San Juan,SJU
+9 de Julio,San Juan,SJU
+Villa Krawse,San Juan,SJU
+Villa Paula Albarracín de Sarmiento,San Juan,SJU
+Aberastain,San Juan,SJU
+San Luis,San Luis,SLU
+Merlo,San Luis,SLU
+San Francisco del Monte de Oro,San Luis,SLU
+Trapiche,San Luis,SLU
+Villa Mercedes,San Luis,SLU
+Comandante Luis Piedra Buena,Santa Cruz,SCR
+Puerto Santa Cruz,Santa Cruz,SCR
+Caleta Olivia,Santa Cruz,SCR
+El Calafate,Santa Cruz,SCR
+El Chaltén,Santa Cruz,SCR
+Gobernador Gregores,Santa Cruz,SCR
+Los Antiguos,Santa Cruz,SCR
+Pico Truncado,Santa Cruz,SCR
+Puerto Deseado,Santa Cruz,SCR
+Puerto San Julián,Santa Cruz,SCR
+Río Gallegos,Santa Cruz,SCR
+Río Turbio,Santa Cruz,SCR
+Santa Fe,Santa Fe,SFE
+Cañada de Gómez,Santa Fe,SFE
+Carlos Pellegrini,Santa Fe,SFE
+Coronda,Santa Fe,SFE
+Esperanza,Santa Fe,SFE
+Funes,Santa Fe,SFE
+Frontera,Santa Fe,SFE
+Rafaela,Santa Fe,SFE
+Reconquista,Santa Fe,SFE
+Rosario,Santa Fe,SFE
+Rufino,Santa Fe,SFE
+San Carlos Centro,Santa Fe,SFE
+Santo Tomé,Santa Fe,SFE
+Sauce Viejo,Santa Fe,SFE
+Sunchales,Santa Fe,SFE
+Venado Tuerto,Santa Fe,SFE
+Villa Cañás,Santa Fe,SFE
+Villa Constitución,Santa Fe,SFE
+Santiago del Estero,Santiago del Estero,SDE
+Añatuya,Santiago del Estero,SDE
+Frías,Santiago del Estero,SDE
+Isca Yacu,Santiago del Estero,SDE
+La Banda,Santiago del Estero,SDE
+Loreto,Santiago del Estero,SDE
+Río Hondo,Santiago del Estero,SDE
+Ushuaia,Tierra del Fuego,TDF
+Río Grande,Tierra del Fuego,TDF
+Tolhuin,Tierra del Fuego,TDF
+San Miguel de Tucumán,Tucumán,TUC
+Aguilares,Tucumán,TUC
+Banda del Río Salí,Tucumán,TUC
+Concepción,Tucumán,TUC
+Famaillá,Tucumán,TUC
+Lules,Tucumán,TUC
+Monteros,Tucumán,TUC
+Simoca,Tucumán,TUC
+Tafí del Valle,Tucumán,TUC
+Tafí Viejo,Tucumán,TUC
+Yerba Buena,Tucumán,TUC

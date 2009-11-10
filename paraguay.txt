@@ -1,0 +1,184 @@
+Fuerte Olimpo,Alto Paraguay
+La Victoria,Alto Paraguay
+Mayor Pablo Lagerenza,Alto Paraguay
+Ciudad del Este,Alto Paraná
+Doctor Juan León Mallorquín,Alto Paraná
+Domingo Martínez de Irala,Alto Paraná
+Hernandaríaz,Alto Paraná
+Iruña,Alto Paraná
+Itaquyry,Alto Paraná
+Juan Emilio OʿLeary,Alto Paraná
+Los Cedrales,Alto Paraná
+Mbaracayú,Alto Paraná
+Minga Guazú,Alto Paraná
+Ñacunday,Alto Paraná
+Naranjal,Alto Paraná
+Presidente Franco,Alto Paraná
+San Alberto,Alto Paraná
+San Cristóbal,Alto Paraná
+Santa Rita,Alto Paraná
+Yguazú,Alto Paraná
+Bella Vista,Amambay
+Capitán Bado,Amambay
+Pedro Juan Caballero,Amambay
+Asunción,Asunción
+Doctor Pedro P. Peña,Boquerón
+Filadelfia,Boquerón
+Marechal Estigarribia,Boquerón
+Menno,Boquerón
+Neuland,Boquerón
+Caaguazú,Caaguazú
+Carayaó,Caaguazú
+Coronel Oviedo,Caaguazú
+Doctor Cecilio Báez,Caaguazú
+Doctor Eulogio Estigarribia,Caaguazú
+Doctor Juan Manuel Frutos,Caaguazú
+La Pastoria,Caaguazú
+Marechal Francisco Solano López,Caaguazú
+Mbutuy,Caaguazú
+Raúl Arsenio Oviedo,Caaguazú
+Repatriación,Caaguazú
+San José de los Arroyos,Caaguazú
+Tres Corrales,Caaguazú
+Vaquería,Caaguazú
+Yhú,Caaguazú
+Abaí,Caazapá
+Caazapá,Caazapá
+Doctor Moisés Bertoni,Caazapá
+General Higinio Morínigo,Caazapá
+San Juan Nepomuceno,Caazapá
+Yegros,Caazapá
+Yuty,Caazapá
+Curuguaty,Canendiyú
+General Francisco Álvarez,Canendiyú
+Itanará,Canendiyú
+Katueté,Canendiyú
+La Paloma,Canendiyú
+Nueva Esperanza,Canendiyú
+Salto del Guairá,Canendiyú
+Areguá,Central
+Capiatá,Central
+Fernando de la Mora,Central
+Guarambaré,Central
+Itá,Central
+Itauguá,Central
+Juan Augusto Saldívar,Central
+Lambaré,Central
+Limpio,Central
+Luque,Central
+Ñemby,Central
+Nueva Italia,Central
+San Antonio,Central
+San Lorenzo,Central
+Villa Elisa,Central
+Villeta,Central
+Ypacaraí,Central
+Ypané,Central
+Belén,Concepción
+Concepcion,Concepción
+Horqueta,Concepción
+Loreto,Concepción
+San Carlos,Concepción
+San Lázaro,Concepción
+Altos,Cordillera
+Arroyos y Esteros,Cordillera
+Atyrá,Cordillera
+Caacupé,Cordillera
+Caraguatay,Cordillera
+Emboscada,Cordillera
+Eusebio Ayala,Cordillera
+Isla Pucú,Cordillera
+Itacurubí de la Cordillera,Cordillera
+Juan de Mena,Cordillera
+Loma Grande,Cordillera
+Mbocayty del Yhaguy,Cordillera
+Nueva Colombia,Cordillera
+Piribebuy,Cordillera
+San Bernardino,Cordillera
+Santa Elena,Cordillera
+Tobatí,Cordillera
+Valenzuela,Cordillera
+Capitán Mauricio José Troche,Guairá
+Coronel Martínez,Guairá
+Independencia,Guairá
+Itapé,Guairá
+José Fasardi,Guairá
+Mbocayaty,Guairá
+Natalicio Talavera,Guairá
+Ñumí,Guairá
+San Salvador,Guairá
+Villarrica,Guairá
+Yataity,Guairá
+Bella Vista,Itapúa
+Cambyreta,Itapúa
+Capitán Meza,Itapúa
+Capitán Miranda,Itapúa
+Carlos Antonio López,Itapúa
+Carmen del Paraná,Itapúa
+Coronel Bogado,Itapúa
+Edelira,Itapúa
+Encarnación,Itapúa
+Fram,Itapúa
+General Artigas,Itapúa
+General Delgado,Itapúa
+Hohenau,Itapúa
+Itapúa Poty,Itapúa
+La Paz,Itapúa
+Mayor Otaño,Itapúa
+Natalio,Itapúa
+Obligado,Itapúa
+Pirapó,Itapúa
+San Cosme y Damián,Itapúa
+San Pedro del Paraná,Itapúa
+San Rafael del Paraná,Itapúa
+Tomás Romero Pereira,Itapúa
+Ayolas,Misiones
+San Ignacio,Misiones
+San Juan Bautista,Misiones
+San Miguel,Misiones
+San Patricio,Misiones
+Santa María,Misiones
+Santa Rosa,Misiones
+Santiago,Misiones
+Villa Florida,Misiones
+Yabebyry,Misiones
+Alberdi,Ñeembucú
+Humaitá,Ñeembucú
+Isla Umbú,Ñeembucú
+Laureles,Ñeembucú
+Mayor José Dejesús Martínez,Ñeembucú
+Pilar,Ñeembucú
+Acahay,Paraguarí
+Caapucú,Paraguarí
+Carapeguá,Paraguarí
+Escobar,Paraguarí
+General Bernardino Caballero,Paraguarí
+La Colmena,Paraguarí
+Mbuyapey,Paraguarí
+Paraguarí,Paraguarí
+Pirayú,Paraguarí
+Quiindy,Paraguarí
+Quyquyho,Paraguarí
+San Roque González de Santa Cruz,Paraguarí
+Tebicuarymí,Paraguarí
+Yaguarón,Paraguarí
+Ybycuí,Paraguarí
+Ybytimí,Paraguarí
+Benjamín Aceval,Presidente Hayes
+José Falcón,Presidente Hayes
+Mariano Roque Alonso,Presidente Hayes
+Nanawa,Presidente Hayes
+Villa Hayes,Presidente Hayes
+Aguaray,San Pedro
+Antequera,San Pedro
+Capiíbary,San Pedro
+Choré,San Pedro
+Itacurubí del Rosario,San Pedro
+Lima,San Pedro
+Nueva Germania,San Pedro
+San Estanislao,San Pedro
+San Pablo,San Pedro
+San Pedro de Ycuamandiyú,San Pedro
+Veinticinco de Diciembre,San Pedro
+Villa del Rosario,San Pedro
+Yataity del Norte,San Pedro

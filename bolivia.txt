@@ -1,0 +1,38 @@
+Guayaramerín,Beni
+Riberalta,Beni
+San Ignacio,Beni
+Trinidad,Beni
+Sucre,Chuquisaca
+Cochabamba,Cochabamba
+Colcapirhua,Cochabamba
+Punata,Cochabamba
+Quillacollo,Cochabamba
+Tiquipaya,Cochabamba
+Vinto,Cochabamba
+Caranavi,La Paz
+El Alto,La Paz
+La Paz,La Paz
+Patacamaya,La Paz
+Viacha,La Paz
+Huanuni,Oruro
+Oruro,Oruro
+Cobija,Pando
+Potosí,Potosí
+Tupiza,Potosí
+Villazón,Potosí
+Camiri,Santa Cruz
+Cotoca,Santa Cruz
+El Carmen,Santa Cruz
+El Torno,Santa Cruz
+La Guardia,Santa Cruz
+Montero,Santa Cruz
+Portachuelo,Santa Cruz
+Puerto Suarez,Santa Cruz
+San Julián,Santa Cruz
+Santa Cruz,Santa Cruz
+Warnes,Santa Cruz
+Yapacaní,Santa Cruz
+Bermejo,Tarija
+Tarija,Tarija
+Villamontes,Tarija
+Yacuiba,Tarija

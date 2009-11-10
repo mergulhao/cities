@@ -1,0 +1,29 @@
+La Ceiba,Atlántida
+Tela,Atlántida
+Choluteca,Choluteca
+Tocoa,Colón
+Trujillo,Colón
+Comayagua,Comayagua
+Siguatepeque,Comayagua
+Santa Rosa de Copán,Copán
+Choloma,Cortés
+La Lima,Cortés
+Puerto Cortés,Cortés
+San Pedro Sula,Cortés
+Villanueva,Cortés
+Danlí,El Paraíso
+El Paraíso,El Paraíso
+Yuscarán,El Paraíso
+Guaimaca,Francisco Morazán
+Tegucigalpa,Francisco Morazán
+Puerto Lempira,Gracias a Dios
+La Esperanza,Intibucá
+Roatán,Islas de la Bahía
+La Paz,La Paz
+Nueva Ocotepeque,Ocotepeque
+Catacamas,Olancho
+Juticalpa,Olancho
+Santa Bárbara,Santa Bárbara
+Nacaome,Valle
+El Progreso,Yoro
+Olanchito,Yoro

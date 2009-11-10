@@ -1,0 +1,35 @@
+Boaco,Boaco
+Camoapa,Boaco
+Diriamba,Carazo
+Jinotepe,Carazo
+San Marcos,Carazo
+Chichigalpa,Chinandega
+Chinandega,Chinandega
+Corinto,Chinandega
+El Viejo,Chinandega
+Juigalpa,Chontales
+Estelí,Estelí
+La Trinidad,Estelí
+Granada,Granada
+Nandaime,Granada
+La Paz Centro,León
+Larreynaga,León
+León,León
+Somoto,Madriz
+Ciudad Sandino,Managua
+Managua,Managua
+San Rafael del Sur,Managua
+Ticuantepe,Managua
+Tipitapa,Managua
+Masaya,Masaya
+Nindirí,Masaya
+Matagalpa,Matagalpa
+Sébaco,Matagalpa
+Ocotal,Nueva Segovia
+Puerto Cabezas,Región Autónoma Atlántico Norte
+Siuna,Región Autónoma Atlántico Norte
+Bluefields,Región Autónoma Atlántico Sur
+El Rama,Región Autónoma Atlántico Sur
+Nueva Guinea,Región Autónoma Atlántico Sur
+San Carlos,Río San Juan
+Rivas,Rivas

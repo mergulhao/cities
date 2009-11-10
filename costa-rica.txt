@@ -1,0 +1,50 @@
+Alajuela,Alajuela
+Quesada,Alajuela
+San José,Alajuela
+San Rafael,Alajuela
+Aguacaliente,Cartago
+Carmen,Cartago
+Cartago,Cartago
+Paraíso,Cartago
+San Diego,Cartago
+San Nicolás,Cartago
+San Rafael,Cartago
+Tejar,Cartago
+Turrialba,Cartago
+Cañas,Guanacaste
+Liberia,Guanacaste
+Nicoya,Guanacaste
+Heredia,Heredia
+Mercedes,Heredia
+San Francisco,Heredia
+San Pablo,Heredia
+Ulloa,Heredia
+Guápiles,Limón
+Limón,Limón
+Siquirres,Limón
+Barranca,Puntarenas
+Puntarenas,Puntarenas
+Aserri,San José
+Calle Blancos,San José
+Cinco Esquinas,San José
+Concepción,San José
+Curridabat,San José
+Desamparados,San José
+Gravilias,San José
+Guadalupe,San José
+Ipís,San José
+Mata de Plátano,San José
+Patalillo,San José
+Patarrá,San José
+Purral,San José
+San Antonio,San José
+San Felipe,San José
+San Isidro,San José
+San José,San José
+San Juan,San José
+San Juan de Dios,San José
+San Miguel,San José
+San Pedro,San José
+San Rafael,San José
+San Rafael Abajo,San José
+San Vicente,San José

@@ -1,0 +1,154 @@
+Artigas,Artigas
+Baltasar Brum,Artigas
+Bella Unión,Artigas
+Tomás Gomensoro,Artigas
+Aguas Corrientes,Canelones
+Atlántida,Canelones
+Barra de Carrasco,Canelones
+Camino Maldonado,Canelones
+Canelones,Canelones
+Cerrillos,Canelones
+Ciudad de la Costa,Canelones
+Colinas de Solymar,Canelones
+Colonia Nicolich,Canelones
+Doctor Francisco Soca,Canelones
+El Pinar,Canelones
+Empalme Olmos,Canelones
+Estación Atlántida,Canelones
+Estación La Floresta,Canelones
+Fraccionamiento Camino del Andaluz y R ochenta y cuatro,Canelones
+Joaquin Suárez,Canelones
+Juan Antonio Artigas,Canelones
+Juanicó,Canelones
+La Floresta,Canelones
+La Paz,Canelones
+Lagomar,Canelones
+Las Piedras,Canelones
+Las Toscas,Canelones
+Lomas de Solymar,Canelones
+Marindia,Canelones
+Migues,Canelones
+Montes,Canelones
+Neptunia,Canelones
+Pando,Canelones
+Parque Carrasco,Canelones
+Parque del Plata,Canelones
+Paso de Carrasco,Canelones
+Pinamar-Pinepark,Canelones
+Progreso,Canelones
+Salinas,Canelones
+San Antonio,Canelones
+San Bautista,Canelones
+San Jacinto,Canelones
+San José de Carrasco,Canelones
+San Luis,Canelones
+San Ramón,Canelones
+Santa Lucia,Canelones
+Santa Rosa,Canelones
+Sauce,Canelones
+Shangrilá,Canelones
+Solymar,Canelones
+Tala,Canelones
+Toledo,Canelones
+Villa Felicidad,Canelones
+Aceguá,Cerro Largo
+Melo,Cerro Largo
+Río Branco,Cerro Largo
+Tupambaé,Cerro Largo
+Carmelo,Colonia
+Colonia,Colonia
+Colonia Valdense,Colonia
+Juan Lacaze,Colonia
+Nueva Helvecia,Colonia
+Nueva Palmira,Colonia
+Ombes de Lavalle,Colonia
+Rosario,Colonia
+Tararias,Colonia
+Carlos Reyles,Durazno
+Carmen,Durazno
+Centenario,Durazno
+Cerro Chato,Durazno
+Durazno,Durazno
+La Paloma,Durazno
+Santa Bernardina,Durazno
+Sarandí del Yi,Durazno
+Ismael Cortinas,Flores
+Trinidad,Flores
+Cardal,Florida
+Casupé,Florida
+Cerro Colorado,Florida
+Florida,Florida
+Fray Marcos,Florida
+Nico Pérez,Florida
+Sarandí Grande,Florida
+Veinticinco de Mayo,Florida
+José Batlle y Ordóñez,Lavalleja
+José Pedro Varela,Lavalleja
+Mariscala,Lavalleja
+Minas,Lavalleja
+Solís de Mataojo,Lavalleja
+Aiguá,Maldonado
+Barrio Hipódromo,Maldonado
+Cerro Pelado,Maldonado
+Maldonado,Maldonado
+Pan de Azcar,Maldonado
+Pinares-Las Delicias,Maldonado
+Piriápolis,Maldonado
+Punta del Este,Maldonado
+San Carlos,Maldonado
+San Rafael-El Placer,Maldonado
+Montevideo,Montevideo
+Pajas Blancas,Montevideo
+Santiago Vázquez,Montevideo
+Chacras de Paysand,Paysandú
+Guichón,Paysandú
+Nuevo Paysand,Paysandú
+Paysandú,Paysandú
+Piedras Coloradas,Paysandú
+Porvenir,Paysandú
+San Félix,Paysandú
+Fray Bentos,Río Negro
+Nuevo Berlín,Río Negro
+San Javier,Río Negro
+Young,Río Negro
+Minas de Corrales,Rivera
+Rivera,Rivera
+Santa Teresa,Rivera
+Tranqueras,Rivera
+Vichadero,Rivera
+Castillos,Rocha
+Cebollatí,Rocha
+Chuy,Rocha
+La Aguada-Costa Azul,Rocha
+La Paloma,Rocha
+Lascano,Rocha
+Rocha,Rocha
+Veláquez,Rocha
+Belén,Salto
+Salto,Salto
+Delta del Tigre,San Jose
+Ecilda Paullier,San Jose
+Libertad,San Jose
+Monte Grande,San Jose
+Playa Pascual,San Jose
+Rodríguez,San Jose
+San José,San Jose
+Santa Mónica,San Jose
+Cardona,Soriano
+Dolores,Soriano
+José Enrique Rodó,Soriano
+Mercedes,Soriano
+Palmitas,Soriano
+Santa Catalina,Soriano
+Villa de Soriano,Soriano
+Ansina,Tacuarembó
+Curtina,Tacuarembó
+Paso de los Toros,Tacuarembó
+San Gregorio de Polanco,Tacuarembó
+Tacuarembó,Tacuarembó
+Ejido de Treinta y Tres,Treinta y Tres
+General Enrique Martínez,Treinta y Tres
+Santa Clara de Olimar,Treinta y Tres
+Treinta y Tres,Treinta y Tres
+Vergara,Treinta y Tres
+Villa Sara,Treinta y Tres

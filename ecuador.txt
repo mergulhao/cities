@@ -1,0 +1,116 @@
+Cuenca,Azuay
+Gualaceo,Azuay
+Guaranda,Bolivar
+Tulcán,Bolivar
+Azogues,Cañar
+Cañar,Cañar
+La Troncal,Cañar
+El Ángel,Carchi
+San Gabriel,Carchi
+Alausí,Chimborazo
+Guano,Chimborazo
+Latacunga,Chimborazo
+Riobamba,Chimborazo
+La Maná,Cotopaxi
+Pujilí,Cotopaxi
+San Miguel,Cotopaxi
+Saquisilí,Cotopaxi
+Arenillas,El Oro
+El Guabo,El Oro
+Huaquillas,El Oro
+Machala,El Oro
+Pasaje,El Oro
+Piñas,El Oro
+Portovelo,El Oro
+Santa Rosa,El Oro
+Zaruma,El Oro
+Esmeraldas,Esmeraldas
+Muisne,Esmeraldas
+Rosa Zárate,Esmeraldas
+San Lorenzo,Esmeraldas
+Valdez,Esmeraldas
+Puero Ayora,Galápagos
+Puerto Baquerizo Moreno,Galápagos
+San Cristóbal,Galápagos
+Alfredo Baquerizo Moreno,Guayas
+Balao,Guayas
+Balzar,Guayas
+Colimes,Guayas
+Coronel Maridueña,Guayas
+Daule,Guayas
+El Salitre,Guayas
+El Triunfo,Guayas
+Eloy Alfaro,Guayas
+Guayaquil,Guayas
+La Libertad,Guayas
+Lomas de Sargentillo,Guayas
+Milagro,Guayas
+Naranjal,Guayas
+Naranjito,Guayas
+Palestina,Guayas
+Pedro Carbo,Guayas
+Playas,Guayas
+Salinas,Guayas
+Samborondón,Guayas
+Santa Elena,Guayas
+Santa Lucía,Guayas
+Velasco Ibarra,Guayas
+Yaguachi,Guayas
+Atuntaqui,Imbabura
+Cotacachi,Imbabura
+Ibarra,Imbabura
+Otavalo,Imbabura
+Pimampiro,Imbabura
+Alamor,Loja
+Cariamanga,Loja
+Celica,Loja
+Cotacocha,Loja
+Cotamayo,Loja
+Loja,Loja
+Macará,Loja
+Babahoyo,Los Ríos
+Buena Fé,Los Ríos
+Catarama,Los Ríos
+Montalvo,Los Ríos
+Palenque,Los Ríos
+Puebloviejo,Los Ríos
+Quevedo,Los Ríos
+Ventanas,Los Ríos
+Vinces,Los Ríos
+Bahía de Caráquez,Manabí
+Calceta,Manabí
+Chone,Manabí
+El Carmen,Manabí
+Jipijapa,Manabí
+Junin,Manabí
+Manta,Manabí
+Montecristi,Manabí
+Paján,Manabí
+Pedernales,Manabí
+Portoviejo,Manabí
+Rocafuerte,Manabí
+Santa Ana,Manabí
+Sucre,Manabí
+Tosagua,Manabí
+Gualaquiza,Morona Santiago
+Macas,Morona Santiago
+Palora,Morona Santiago
+Sucúa,Morona Santiago
+Archidona,Napo
+Tena,Napo
+Orellana,Orellana
+Puyo,Pastaza
+Cayambe,Pichincha
+Machachi,Pichincha
+Pichincha,Pichincha
+Quito,Pichincha
+Sangolquí,Pichincha
+Santo Domingo,Pichincha
+Nueva Loja,Sucumbíos
+Shushufindi,Sucumbíos
+Ambato,Tungurahua
+Baños,Tungurahua
+Pelileo,Tungurahua
+Pillaro,Tungurahua
+Yantzaza,Zamora Chinchipe
+Zamora,Zamora Chinchipe

@@ -1,0 +1,72 @@
+Chisec,Alta Verapaz
+Cobán,Alta Verapaz
+San Cristóbal Verapaz,Alta Verapaz
+San Pedro Carchá,Alta Verapaz
+Salamá,Baja Verapaz
+Chimaltenango,Chimaltenango
+Patzicía,Chimaltenango
+Patzún,Chimaltenango
+San Andrés Itzapa,Chimaltenango
+Tecpán Guatemala,Chimaltenango
+Chiquimula,Chiquimula
+Esquipulas,Chiquimula
+Guastatoya,El Progreso
+Escuintla,Escuintla
+La Gomera,Escuintla
+Palín,Escuintla
+San José,Escuintla
+Santa Lucía Cotzumalguapa,Escuintla
+Tiquisate,Escuintla
+Amatitlán,Guatemala
+Chinautla,Guatemala
+Ciudad de Guatemala,Guatemala
+Fraijanes,Guatemala
+Mixco,Guatemala
+Palencia,Guatemala
+Petapa,Guatemala
+San José Pinula,Guatemala
+San Juan Sacatepéquez,Guatemala
+San Pedro Ayampuc,Guatemala
+Santa Catarina Pinula,Guatemala
+Villa Canales,Guatemala
+Villa Nueva,Guatemala
+Barillas,Huehuetenango
+Huehuetenango,Huehuetenango
+La Democracia,Huehuetenango
+El Estor,Izabal
+Livingston,Izabal
+Morales,Izabal
+Puerto Barrios,Izabal
+Jalapa,Jalapa
+Jutiapa,Jutiapa
+Flores,Petén
+Poptún,Petén
+Coatepeque,Quezaltenango
+Quezaltenango,Quezaltenango
+Salcajá,Quezaltenango
+Chichicastenango,Quiché
+Nebaj,Quiché
+Santa Cruz del Quiché,Quiché
+Retalhuleu,Retalhuleu
+Antigua Guatemata,Sacatepéquez
+Ciudad Vieja,Sacatepéquez
+San Lucas Sacatepéquez,Sacatepéquez
+Sumpango,Sacatepéquez
+San Marcos,San Marcos
+San Pablo,San Marcos
+San Pedro Sacatepéquez,San Marcos
+Nahualá,Santa Rosa
+Panajachel,Santa Rosa
+San Lucas Tolimán,Santa Rosa
+Santiago Atitlán,Santa Rosa
+Barberena,Sololá
+Chiquimulilla,Sololá
+Cuilapa,Sololá
+Chicacao,Suchitepéquez
+Mazatenango,Suchitepéquez
+Patulul,Suchitepéquez
+San Pablo Jocopilas,Suchitepéquez
+San Francisco El Alto,Totonicapán
+Totonicapán,Totonicapán
+Gualán,Zacapa
+Zacapa,Zacapa

@@ -1,0 +1,15 @@
+St.Elisabeth,Black River
+Trelawny,Falmouth
+Kingston,Kingston
+St. Andrews,Kingston
+Hanover,Lucea
+Manchester,Mandeville
+Clarendon,May Pen
+Jamaica,Montego Bay
+St. Thomas,Morant Bay
+Portland,Port Antonio
+St. Mary,Port Maria
+St. Catherine,Portmore
+Westmoreland,Savanna-la-Mar
+St. Catherine,Spanish Town
+St. Ann,St. Ann's Bay

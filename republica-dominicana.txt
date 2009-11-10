@@ -1,0 +1,44 @@
+Azua,Azua
+Neiba,Bahoruco
+Barahona,Barahona
+Dajabón,Dajabón
+Boca Chica,Distrito Nacional
+Los Alcarrizos,Distrito Nacional
+Pedro Brand,Distrito Nacional
+Santo Domingo,Distrito Nacional
+San Francisco de Macorís,Duarte
+El Seibo,El Seibo
+Comendador,Elías Piña
+Gaspar Hernández,Espaillat
+Moca,Espaillat
+Hato Mayor del Rey,Hato Mayor
+Jimaní,Independencia
+Higüey,La Altagracia
+La Romana,La Romana
+Constanza,La Vega
+Jarabacoa,La Vega
+La Vega,La Vega
+Nagua,María Trinidad Sánchez
+Bonao,Monseñor Nouel
+Bayaguana,Monte Plata
+Monte Plata,Monte Plata
+Sabana Grande,Monte Plata
+Pedernales,Pedernales
+Baní,Peravia
+Puerto Plata,Puerto Plata
+Salcedo,Salcedo
+Samaná,Samaná
+Bajos de Haina,San Cristóbal
+San Cristóbal,San Cristóbal
+Villa Altagracia,San Cristóbal
+Las Matas de Farfán,San Juan
+San Juan,San Juan
+Consuelo,San Pedro de Macorís
+Quisqueya,San Pedro de Macorís
+San Pedro de Macorís,San Pedro de Macorís
+Cotuí,Sánchez Ramírez
+Santiago,Santiago
+Tamboril,Santiago
+Sabaneta,Santiago Rodríguez
+Esperanza,Valverde
+Mao,Valverde

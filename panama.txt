@@ -1,0 +1,33 @@
+Almirante,Bocas del Toro
+Bocas del Toro,Bocas del Toro
+David,Chiriquí
+La Concepción,Chiriquí
+Las Lomas,Chiriquí
+Puerto Armuelles,Chiriquí
+Volcán,Chiriquí
+Aguadulce,Coclé
+Penonomé,Coclé
+Colón,Colón
+Cristóbal,Colón
+Puerto Pilón,Colón
+Sabanitas,Colón
+San Juan,Colón
+La Palma,Darién
+Chitré,Herrera
+Monagrillo,Herrera
+Las Tablas,Los Santos
+Chichica,Ngöbe-Buglé
+Ancón,Panamá
+Arraiján,Panamá
+Chilibre,Panamá
+Ciudad de Panamá,Panamá
+El Coco,Panamá
+La Chorrera,Panamá
+Las Cumbres,Panamá
+Pacora,Panamá
+San Miguelito,Panamá
+Tocumen,Panamá
+Veracruz,Panamá
+Vista Alegre,Panamá
+Santiago de Veraguas,Veraguas
+Soná,Veraguas

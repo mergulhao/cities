@@ -1,0 +1,44 @@
+Ahuachapán,Ahuachapán
+Atiquizaya,Ahuachapán
+San Francisco Menéndez,Ahuachapán
+Ilobasco,Cabañas
+Sensuntepeque,Cabañas
+Chalatenango,Chalatenango
+Cojutepeque,Cuscatlán
+Antiguo Cuscatlán,La Libertad
+Colón,La Libertad
+La Libertad,La Libertad
+Nueva San Salvador,La Libertad
+Opico,La Libertad
+San José Villanueva,La Libertad
+San Luis,La Paz
+San Pedro Masahuat,La Paz
+Zacatecoluca,La Paz
+Conchagua,La Unión
+La Unión,La Unión
+San Francisco,Morazán
+San Miguel,San Miguel
+Aguilares,San Salvador
+Apopa,San Salvador
+Ayutuxtepeque,San Salvador
+Cuscatancingo,San Salvador
+Delgado,San Salvador
+Ilopango,San Salvador
+Mejicanos,San Salvador
+Nejapa,San Salvador
+Panchimalco,San Salvador
+San Marcos,San Salvador
+San Martín,San Salvador
+San Salvador,San Salvador
+Soyapango,San Salvador
+San Vicente,San Vicente
+Chalchuapa,Santa Ana
+Coatepeque,Santa Ana
+San Sebastián Salitrillo,Santa Ana
+Santa Ana,Santa Ana
+Acajutla,Sonsonate
+Armenia,Sonsonate
+Nahuizalco,Sonsonate
+Sonsonate,Sonsonate
+Jucuapa,Usulután
+Usulután,Usulután

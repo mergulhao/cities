@@ -1,0 +1,284 @@
+Bagua Grande,Amazonas
+Cajaruro,Amazonas
+Chachapoyas,Amazonas
+Jazán,Amazonas
+La Peca,Amazonas
+Caraz,Ancash
+Carhuaz,Ancash
+Casma,Ancash
+Chimbote,Ancash
+Coishco,Ancash
+Huallanca,Ancash
+Huaraz,Ancash
+Abancay,Apurímac
+Andahuaylas,Apurímac
+San Jerónimo,Apurímac
+Talavera,Apurímac
+Acarí,Arequipa
+Arequipa,Arequipa
+Cacochacra,Arequipa
+Camaná,Arequipa
+Chivay,Arequipa
+Dean Valdivia,Arequipa
+Lluta,Arequipa
+Mollendo,Arequipa
+Nicolás de Pierola,Arequipa
+Orcopampa,Arequipa
+Punta de Bombón,Arequipa
+Río Grande,Arequipa
+Yura,Arequipa
+Ayacucho,Ayacucho
+Ayna,Ayacucho
+Coracora,Ayacucho
+Huanta,Ayacucho
+Puquío,Ayacucho
+San Miguel,Ayacucho
+Santa Rosa,Ayacucho
+Bambamarca,Cajamarca
+Bellavista,Cajamarca
+Cajabamba,Cajamarca
+Cajamarca,Cajamarca
+Celedín,Cajamarca
+Chota,Cajamarca
+Cutervo,Cajamarca
+Jaén,Cajamarca
+Pedro Gálvez,Cajamarca
+Pucará,Cajamarca
+San Ignacio,Cajamarca
+Santa Cruz,Cajamarca
+Yonán,Cajamarca
+Anta,Cusco
+Calca,Cusco
+Cusco,Cusco
+Espinar,Cusco
+Oropesa,Cusco
+Santa Ana,Cusco
+Santo Tomñás,Cusco
+Sicuani,Cusco
+Urcos,Cusco
+Urubamba,Cusco
+Huancavelica,Huancavelica
+Lircay,Huancavelica
+Pampas,Huancavelica
+Ambo,Huánuco
+Aucayacu,Huánuco
+Huánuco,Huánuco
+La Unión,Huánuco
+Llata,Huánuco
+San Miguel de Cauri,Huánuco
+Tingo María,Huánuco
+Chincha Alta,Ica
+Ica,Ica
+Los Aquijes,Ica
+Marcona,Ica
+Nazca,Ica
+Pachacútec,Ica
+Palpa,Ica
+Pisco,Ica
+Salas,Ica
+San Andrés,Ica
+San Clemente,Ica
+San Juan Bautista,Ica
+Santiago,Ica
+Subtanjalla,Ica
+Vista Alegre,Ica
+Acobamba,Junín
+Carhuamayo,Junín
+Chanchamayo,Junín
+Chupaca,Junín
+Concepción,Junín
+Huancayo,Junín
+Huasahuasi,Junín
+Huayucachi,Junín
+Jauja,Junín
+Junín,Junín
+La Oroya,Junín
+Mazamari,Junín
+Morococha,Junín
+Orcotuna,Junín
+Pangoa,Junín
+Perené,Junín
+Pichanaqui,Junín
+Pulcomayo,Junín
+San Jerónimo de Tunán,Junín
+San Ramón,Junín
+Santa Rosa de Saco,Junín
+Satipo,Junín
+Sicaya,Junín
+Tarma,Junín
+Yauli,Junín
+Yauya,Junín
+Ascope,La Libertad
+Cascas,La Libertad
+Chepén,La Libertad
+Chicama,La Libertad
+Chocope,La Libertad
+Guadalupe,La Libertad
+Huamachuco,La Libertad
+Huanchanco,La Libertad
+Laredo,La Libertad
+Moche,La Libertad
+Otuzco,La Libertad
+Pacanga,La Libertad
+Pacasmayo,La Libertad
+Paiján,La Libertad
+Pueblo Nuevo,La Libertad
+Quiruvilca,La Libertad
+Razuri,La Libertad
+Salaverry,La Libertad
+San José,La Libertad
+San Pedro de Lloc,La Libertad
+Santiago de Cao,La Libertad
+Santiago de Chuco,La Libertad
+Trujillo,La Libertad
+Virú,La Libertad
+Chiclayo,Lambayeque
+Chongoyape,Lambayeque
+Eten,Lambayeque
+Ferreñafe,Lambayeque
+Illimo,Lambayeque
+Jayanca,Lambayeque
+Lagunas,Lambayeque
+Lambayeque,Lambayeque
+Manuel Mesones Muro,Lambayeque
+Mochumí,Lambayeque
+Monsefú,Lambayeque
+Mórrope,Lambayeque
+Motupe,Lambayeque
+Olmos,Lambayeque
+Oyotún,Lambayeque
+Picsi,Lambayeque
+Pimentel,Lambayeque
+Pueblo Nuevo,Lambayeque
+Reque,Lambayeque
+San José,Lambayeque
+Saña,Lambayeque
+Santa Rosa,Lambayeque
+Túcume,Lambayeque
+Callao,Lima Metropolitana y Callao
+Lima,Lima Metropolitana y Callao
+Barranca,Lima Provincias
+Caleta de Carquín,Lima Provincias
+Chancay,Lima Provincias
+Chicla,Lima Provincias
+Chilca,Lima Provincias
+Chosica,Lima Provincias
+Huacho,Lima Provincias
+Hualmay,Lima Provincias
+Huaral,Lima Provincias
+Imperial,Lima Provincias
+Mala,Lima Provincias
+Matucana,Lima Provincias
+Nuevo Imperial,Lima Provincias
+Oyón,Lima Provincias
+Paramonga,Lima Provincias
+Pativilca,Lima Provincias
+Quilmaná,Lima Provincias
+Ricardo Palma,Lima Provincias
+San Luis,Lima Provincias
+San Vicente de Cañete,Lima Provincias
+Santa Eulalia,Lima Provincias
+Santa María,Lima Provincias
+Sayán,Lima Provincias
+Supe,Lima Provincias
+Supe Puerto,Lima Provincias
+Végueta,Lima Provincias
+Barranca,Loreto
+Contamana,Loreto
+Fernando Lores,Loreto
+Iquitos,Loreto
+Lagunas,Loreto
+Nauta,Loreto
+Ramón Castilla,Loreto
+Requena,Loreto
+Saquena,Loreto
+Vargas Guerra,Loreto
+Yurimaguas,Loreto
+Iberia,Madre de Dios
+Puerto Maldonado,Madre de Dios
+Tambopata,Madre de Dios
+Ilo,Moquegua
+Moquegua,Moquegua
+Pacocha,Moquegua
+Torata,Moquegua
+Cerro de Pasco,Pasco
+Chaupimarca,Pasco
+Oxapampa,Pasco
+Paucartambo,Pasco
+Simón Bolívar,Pasco
+Villa Rica,Pasco
+Yanacancha,Pasco
+Yanahuanca,Pasco
+Ayabaca,Piura
+Bernal,Piura
+Buenos Aires,Piura
+Catacaos,Piura
+Chulucanas,Piura
+Colán,Piura
+El Alto,Piura
+Huancabamba,Piura
+La Arena,Piura
+La Brea,Piura
+La Huaca,Piura
+La Unión,Piura
+Las Lomas,Piura
+Los Órganos,Piura
+Máncora,Piura
+Marcavélica,Piura
+Morropón,Piura
+Paita,Piura
+Piura,Piura
+Querecotillo,Piura
+Salitral,Piura
+San Juan de Bigote,Piura
+Sechura,Piura
+Sullana,Piura
+Talara,Piura
+Tambo Grande,Piura
+Vice,Piura
+Ayaviri,Puno
+Azángaro,Puno
+Desaguadero,Puno
+Huancane,Puno
+Ilave,Puno
+Juli,Puno
+Juliaca,Puno
+Lampa,Puno
+Macusani,Puno
+Nuñoa,Puno
+Puno,Puno
+Putina,Puno
+Santa Lucía,Puno
+Bellavista,San Martín
+Chazuta,San Martín
+Huicungo,San Martín
+Jepelacio,San Martín
+Juanjuí,San Martín
+Lamas,San Martín
+Moyobamba,San Martín
+Nueva Cajamarca,San Martín
+Pardo Miguel,San Martín
+Picota,San Martín
+Rioja,San Martín
+San José de Sisa,San Martín
+Saposa,San Martín
+Sauce,San Martín
+Soritor,San Martín
+Tabaloso,San Martín
+Tarapoto,San Martín
+Tocache,San Martín
+Uchiza,San Martín
+Ilabaya,Tacna
+Tacna,Tacna
+Tarata,Tacna
+Aguas Verdes,Tumbes
+Corrales,Tumbes
+La Cruz,Tumbes
+Papayal,Tumbes
+San Jacinto,Tumbes
+Tumbes,Tumbes
+Zarumilla,Tumbes
+Campoverde,Ucayali
+Padre Abad,Ucayali
+Pucallpa,Ucayali
+Raymondi,Ucayali

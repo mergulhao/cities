@@ -1,0 +1,332 @@
+Aisén,Aisén
+Chile Chico,Aisén
+Cisnes,Aisén
+Cochrane,Aisén
+Coihaique,Aisén
+Guaitecas,Aisén
+Antofagasta,Antofagasta
+Calama,Antofagasta
+Chuquicamata,Antofagasta
+Estación Zaldivar,Antofagasta
+María Elena,Antofagasta
+Mejillones,Antofagasta
+San Pedro de Atacama,Antofagasta
+Taltal,Antofagasta
+Tocopilla,Antofagasta
+Angol,Araucanía
+Carahue,Araucanía
+Collipulli,Araucanía
+Cunco,Araucanía
+Curacautín,Araucanía
+Curarrehue,Araucanía
+Ercilla,Araucanía
+Freire,Araucanía
+Galvarino,Araucanía
+Gorbea,Araucanía
+Labranza,Araucanía
+Lautaro,Araucanía
+Loncoche,Araucanía
+Lonquimay,Araucanía
+Los Sauces,Araucanía
+Lumaco,Araucanía
+Melipeuco,Araucanía
+Nueva Imperial,Araucanía
+Padre las Casas,Araucanía
+Perquenco,Araucanía
+Pitrufquén,Araucanía
+Pucón,Araucanía
+Purén,Araucanía
+Renaico,Araucanía
+Saavedra,Araucanía
+Temuco,Araucanía
+Teodoro Schmidt,Araucanía
+Toltén,Araucanía
+Traiguén,Araucanía
+Victoria,Araucanía
+Vilcún,Araucanía
+Villarrica,Araucanía
+Caldera,Atacama
+Chañaral,Atacama
+Copiapó,Atacama
+Diego de Almagro,Atacama
+Freirina,Atacama
+Huasco,Atacama
+Tierra Amarilla,Atacama
+Vallenar,Atacama
+Antuco,Bío-Bío
+Arauco,Bío-Bío
+Bulnes,Bío-Bío
+Cabrero,Bío-Bío
+Cañete,Bío-Bío
+Chiguayante,Bío-Bío
+Chillán,Bío-Bío
+Chillán Viejo,Bío-Bío
+Cobquecura,Bío-Bío
+Coelemu,Bío-Bío
+Coihueco,Bío-Bío
+Concepción,Bío-Bío
+Contulmo,Bío-Bío
+Coronel,Bío-Bío
+Curanilahue,Bío-Bío
+El Carmen,Bío-Bío
+Florida,Bío-Bío
+Hualpén,Bío-Bío
+Hualqui,Bío-Bío
+Huepil,Bío-Bío
+Laja,Bío-Bío
+Lebu,Bío-Bío
+Los Álamos,Bío-Bío
+Los Ángeles,Bío-Bío
+Lota,Bío-Bío
+Monte Aguila,Bío-Bío
+Mulchén,Bío-Bío
+Nacimiento,Bío-Bío
+Negrete,Bío-Bío
+Ninhue,Bío-Bío
+Ñiquén,Bío-Bío
+Pemuco,Bío-Bío
+Penco,Bío-Bío
+Pinto,Bío-Bío
+Portezuelo,Bío-Bío
+Quilaco,Bío-Bío
+Quilleco,Bío-Bío
+Quillón,Bío-Bío
+Quirihue,Bío-Bío
+Ránquil,Bío-Bío
+San Carlos,Bío-Bío
+San Fabián,Bío-Bío
+San Ignacio,Bío-Bío
+San Nicolás,Bío-Bío
+San Pedro de la Paz,Bío-Bío
+San Rosendo,Bío-Bío
+Santa Bárbara,Bío-Bío
+Santa Juana,Bío-Bío
+Talcahuano,Bío-Bío
+Tirúa,Bío-Bío
+Tomé,Bío-Bío
+Treguaco,Bío-Bío
+Tucapel,Bío-Bío
+Yumbel,Bío-Bío
+Yungay,Bío-Bío
+Andacollo,Coquimbo
+Canela,Coquimbo
+Combarbalá,Coquimbo
+Coquimbo,Coquimbo
+El Palqui,Coquimbo
+Illapel,Coquimbo
+La Higuera,Coquimbo
+La Serena,Coquimbo
+Los Vilos,Coquimbo
+Monte Patria,Coquimbo
+Ovalle,Coquimbo
+Punitaqui,Coquimbo
+Salamanca,Coquimbo
+Vicuña,Coquimbo
+Chépica,Libertador Gral.Bernardo O'Higgins
+Chimbarongo,Libertador Gral.Bernardo O'Higgins
+Codegua,Libertador Gral.Bernardo O'Higgins
+Coinco,Libertador Gral.Bernardo O'Higgins
+Coltauco,Libertador Gral.Bernardo O'Higgins
+Doñihue,Libertador Gral.Bernardo O'Higgins
+Graneros,Libertador Gral.Bernardo O'Higgins
+La Estrella,Libertador Gral.Bernardo O'Higgins
+Las Cabras,Libertador Gral.Bernardo O'Higgins
+Litueche,Libertador Gral.Bernardo O'Higgins
+Lolol,Libertador Gral.Bernardo O'Higgins
+Machalí,Libertador Gral.Bernardo O'Higgins
+Malloa,Libertador Gral.Bernardo O'Higgins
+Marchihue,Libertador Gral.Bernardo O'Higgins
+Mostazal,Libertador Gral.Bernardo O'Higgins
+Nancagua,Libertador Gral.Bernardo O'Higgins
+Navidad,Libertador Gral.Bernardo O'Higgins
+Olivar,Libertador Gral.Bernardo O'Higgins
+Palmilla,Libertador Gral.Bernardo O'Higgins
+Paredones,Libertador Gral.Bernardo O'Higgins
+Peralillo,Libertador Gral.Bernardo O'Higgins
+Peumo,Libertador Gral.Bernardo O'Higgins
+Pichidegua,Libertador Gral.Bernardo O'Higgins
+Pichilemu,Libertador Gral.Bernardo O'Higgins
+Placilla,Libertador Gral.Bernardo O'Higgins
+Quinta de Tilcoco,Libertador Gral.Bernardo O'Higgins
+Rancagua,Libertador Gral.Bernardo O'Higgins
+Rengo,Libertador Gral.Bernardo O'Higgins
+Requínoa,Libertador Gral.Bernardo O'Higgins
+San Fernando,Libertador Gral.Bernardo O'Higgins
+San Vicente,Libertador Gral.Bernardo O'Higgins
+Santa Cruz,Libertador Gral.Bernardo O'Higgins
+Ancud,Los Lagos
+Calbuco,Los Lagos
+Castro,Los Lagos
+Chaitén,Los Lagos
+Chonchi,Los Lagos
+Corral,Los Lagos
+Dalcahue,Los Lagos
+Fresia,Los Lagos
+Frutillar,Los Lagos
+Futaleufú,Los Lagos
+Futrono,Los Lagos
+Hualaihué,Los Lagos
+La Unión,Los Lagos
+Lago Ranco,Los Lagos
+Lanco,Los Lagos
+Llanquihue,Los Lagos
+Los Lagos,Los Lagos
+Los Muermos,Los Lagos
+Máfil,Los Lagos
+Mariquina,Los Lagos
+Maullín,Los Lagos
+Osorno,Los Lagos
+Paillaco,Los Lagos
+Panguipulli,Los Lagos
+Puerto Montt,Los Lagos
+Puerto Octay,Los Lagos
+Puerto Varas,Los Lagos
+Purranque,Los Lagos
+Puyehue,Los Lagos
+Queilén,Los Lagos
+Quellón,Los Lagos
+Quemchi,Los Lagos
+Quinchao,Los Lagos
+Río Bueno,Los Lagos
+Río Negro,Los Lagos
+San Juan de la Costa,Los Lagos
+San Pablo,Los Lagos
+Valdivia,Los Lagos
+Cabo de Hornos,Magallanes
+Natales,Magallanes
+Porvenir,Magallanes
+Punta Arenas,Magallanes
+Cauquenes,Maule
+Chanco,Maule
+Colbún,Maule
+Constitución,Maule
+Curepto,Maule
+Curicó,Maule
+Empedrado,Maule
+Hualañé,Maule
+Licantén,Maule
+Linares,Maule
+Longaví,Maule
+Maule,Maule
+Molina,Maule
+Parral,Maule
+Pelarco,Maule
+Pelluhue,Maule
+Pencahue,Maule
+Rauco,Maule
+Retiro,Maule
+Río Claro,Maule
+Romeral,Maule
+Sagrada Familia,Maule
+San Clemente,Maule
+San Javier,Maule
+San Rafael,Maule
+Talca,Maule
+Teno,Maule
+Vichuquén,Maule
+Villa Alegre,Maule
+Yerbas Buenas,Maule
+Alhué,Metropolitana
+Alto Jahuel,Metropolitana
+Bajos de San Agustín,Metropolitana
+Batuco,Metropolitana
+Buin,Metropolitana
+Calera de Tango,Metropolitana
+Cerrillos,Metropolitana
+Cerro Navia,Metropolitana
+Colina,Metropolitana
+Conchalí,Metropolitana
+Curacaví,Metropolitana
+El Bosque,Metropolitana
+El Monte,Metropolitana
+Estación Central,Metropolitana
+Hospital,Metropolitana
+Huechuraba,Metropolitana
+Independencia,Metropolitana
+Isla de Maipo,Metropolitana
+La Cisterna,Metropolitana
+La Florida,Metropolitana
+La Granja,Metropolitana
+La Obra-Las Vertientes,Metropolitana
+La Pintana,Metropolitana
+La Reina,Metropolitana
+Lampa,Metropolitana
+Las Condes,Metropolitana
+Las Islitas,Metropolitana
+Lo Barnechea,Metropolitana
+Lo Espejo,Metropolitana
+Lo Prado,Metropolitana
+Macul,Metropolitana
+Maipú,Metropolitana
+María Pinto,Metropolitana
+Melipilla,Metropolitana
+Nuñoa,Metropolitana
+Padre Hurtado,Metropolitana
+Paine,Metropolitana
+Pedro Aguirre Cerda,Metropolitana
+Peñaflor,Metropolitana
+Peñalolén,Metropolitana
+Pirque,Metropolitana
+Providencia,Metropolitana
+Pudahuel,Metropolitana
+Puente Alto,Metropolitana
+Quilicura,Metropolitana
+Quinta Normal,Metropolitana
+Recoleta,Metropolitana
+Renca,Metropolitana
+San Bernardo,Metropolitana
+San Joaquín,Metropolitana
+San José de Maipo,Metropolitana
+San Miguel,Metropolitana
+San Ramón,Metropolitana
+Santiago,Metropolitana
+Talagante,Metropolitana
+Tiltil,Metropolitana
+Vitacura,Metropolitana
+Arica,Tarapacá
+Iquique,Tarapacá
+Pica,Tarapacá
+Pozo Almonte,Tarapacá
+Putre,Tarapacá
+Algarrobo,Valparaíso
+Cabildo,Valparaíso
+Calera,Valparaíso
+Calle Larga,Valparaíso
+Cartagena,Valparaíso
+Casablanca,Valparaíso
+Catemu,Valparaíso
+Concón,Valparaíso
+El Melón,Valparaíso
+El Quisco,Valparaíso
+El Tabo,Valparaíso
+Hijuelas,Valparaíso
+La Cruz,Valparaíso
+La Ligua,Valparaíso
+Las Cruces,Valparaíso
+Las Ventanas,Valparaíso
+Limache,Valparaíso
+Llaillay,Valparaíso
+Los Andes,Valparaíso
+Nogales,Valparaíso
+Olmué,Valparaíso
+Panquehue,Valparaíso
+Papudo,Valparaíso
+Petorca,Valparaíso
+Placilla de Peñuelas,Valparaíso
+Puchuncaví,Valparaíso
+Putaendeo,Valparaíso
+Quillota,Valparaíso
+Quilpué,Valparaíso
+Quintero,Valparaíso
+Rinconada,Valparaíso
+San Antonio,Valparaíso
+San Esteban,Valparaíso
+San Felipe,Valparaíso
+Santa María,Valparaíso
+Santo Domingo,Valparaíso
+Señor Pobres Béjares,Valparaíso
+Valparaíso,Valparaíso
+Villa Alemana,Valparaíso
+Villa Los Almendros,Valparaíso
+Viña del Mar,Valparaíso
+Zapallar,Valparaíso

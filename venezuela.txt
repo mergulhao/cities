@@ -1,0 +1,106 @@
+Puerto Ayacucho,Amazonas
+Anaco,Anzoátegui
+Barcelona,Anzoátegui
+Cantaura,Anzoátegui
+El Tigre,Anzoátegui
+Puerto la Cruz,Anzoátegui
+San José de Guanipa,Anzoátegui
+Guasdualito,Apure
+San Fernando,Apure
+Cagua,Aragua
+El Limón,Aragua
+La Victoria,Aragua
+Las Teyerías,Aragua
+Maracay,Aragua
+Palo Negro,Aragua
+San Mateo,Aragua
+Turmero,Aragua
+Villa de Cura,Aragua
+Barinas,Barinas
+Barinitas,Barinas
+Ciudad Bolivar,Bolivar
+Ciudad Guayana,Bolivar
+Upata,Bolivar
+Goaigoaza,Carabobo
+Guacara,Carabobo
+Güigüe,Carabobo
+Mariara,Carabobo
+Morón,Carabobo
+Puerto Cabello,Carabobo
+San Joaquín,Carabobo
+Tacarigua,Carabobo
+Valencia,Carabobo
+San Carlos,Cojedes
+Tinaquillo,Cojedes
+Tucupita,Delta Amacuro
+Caracas,Distrito Capital
+Coro,Falcón
+Punta Cardón,Falcón
+Punto Fijo,Falcón
+Altagracia de Orituco,Guárico
+Calabozo,Guárico
+San Juan de los Morros,Guárico
+Valle de la Pascua,Guárico
+Zaraza,Guárico
+Barquisimeto,Lara
+Cabudare,Lara
+Carora,Lara
+El Tocuyo,Lara
+Los Rastrojos,Lara
+Quíbor,Lara
+Ejido,Mérida
+El Vigía,Mérida
+Mérida,Mérida
+Baruta,Miranda
+Carrizal,Miranda
+Catia La Mar,Miranda
+Caucagüita,Miranda
+Chacao,Miranda
+Charallave,Miranda
+Cúa,Miranda
+El Cafetal,Miranda
+El Hatillo,Miranda
+Filas de Mariche,Miranda
+Guarenas,Miranda
+Guatire,Miranda
+La Dolorita,Miranda
+Los Dos Caminos,Miranda
+Los Teques,Miranda
+Ocumare del Tuy,Miranda
+Petare,Miranda
+San Antonio de los Altos,Miranda
+Santa Teresa,Miranda
+Maturin,Monagas
+La Asunción,Nueva Esparta
+Porlamar,Nueva Esparta
+Villa Rosa,Nueva Esparta
+Acarigua,Portuguesa
+Araure,Portuguesa
+Guanare,Portuguesa
+Villa Bruzual,Portuguesa
+Carupano,Sucre
+Cumaná,Sucre
+La Fría,Táchira
+Rubio,Táchira
+San Antonio del Táchira,Táchira
+San Cristóbal,Táchira
+San Juan de Colón,Táchira
+Táriba,Táchira
+Trujillo,Trujillo
+Valera,Trujillo
+Caraballeda,Vargas
+La Guaira,Vargas
+Maiquetía,Vargas
+Chivacoa,Yaracuy
+Nirgua,Yaracuy
+San Felipe,Yaracuy
+Yaritagua,Yaracuy
+Bachaquero,Zulia
+Cabimas,Zulia
+Ciudad Ojeda,Zulia
+Lagunillas,Zulia
+Machiques,Zulia
+Maracaibo,Zulia
+San Carlos del Zulia,Zulia
+Santa Rita,Zulia
+Villa del Rosario,Zulia
